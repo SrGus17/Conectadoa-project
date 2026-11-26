@@ -29,4 +29,4 @@ Projeto Integrador Extensionista · ADS.
 
    `npm.cmd run dev`
 
-6. Abra http://localhost:5174
+6. Abra http://localhost:5173/
